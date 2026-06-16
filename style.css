@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background: radial-gradient(#0b0c28, #000);
+    overflow: hidden;
+    font-family: sans-serif;
+    color: white;
+  }
+  
+  canvas {
+    display: block;
+  }
+  
+  #start-btn {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 20;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    border: 1px solid #555;
+    padding: 10px 16px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
