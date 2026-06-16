@@ -1,4 +1,4 @@
-# Sonification-2
+# Sonification-2-Reversal of the Skyrmion Topological Deflection Across Ferrimagnetic Angular Momentum Compensation
 1. Titre de l’article
 
 Reversal of the Skyrmion Topological Deflection Across Ferrimagnetic Angular Momentum Compensation
